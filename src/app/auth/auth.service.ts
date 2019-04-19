@@ -1,4 +1,4 @@
-import { Injectable } from "@angular/core";
+import { Injectable } from '@angular/core';
 import { User } from './user.module';
 import { AuthData } from './auth-data.module';
 import { Subject } from 'rxjs';

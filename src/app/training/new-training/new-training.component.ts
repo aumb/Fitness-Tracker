@@ -17,7 +17,7 @@ export class NewTrainingComponent implements OnInit {
   }
 
   onStartTraining() {
-    this.trainingStart.emit();
+    // this.trainingService.startExercise();
   }
 
 }
